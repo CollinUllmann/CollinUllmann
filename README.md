@@ -3,7 +3,7 @@ Welcome to my GitHub profile!
 I'm Collin, a fullstack developer ready to get to work.
 Feel free to take a look around. I have some of my recent projects listed below.
 
-Things I code with:
+What's in the Utility Belt:
 - 🌐 Frontend:  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white&style=flat) ![React](https://img.shields.io/badge/-React-blue?logo=react&logoColor=white&style=flat) ![HTML](https://img.shields.io/badge/-HTML-orange?logo=html5&logoColor=white&style=flat) ![CSS](https://img.shields.io/badge/-CSS-blue?logo=css3&logoColor=white&style=flat)
 
 - ⚙️ Backend: ![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white&style=flat) ![Flask](https://img.shields.io/badge/-Flask-black?logo=flask&logoColor=white&style=flat) ![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-red?logo=sqlalchemy&logoColor=white&style=flat)
