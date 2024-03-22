@@ -1,6 +1,6 @@
 ### Hi! Thanks for dropping by.
 Welcome to my GitHub profile!
-I'm Collin, a fullstack developer ready to get to work.
+I'm Collin, a fullstack developer ready to jump into action.
 Feel free to take a look around. I have some of my recent projects listed below.
 
 What's in the Utility Belt:
