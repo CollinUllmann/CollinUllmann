@@ -12,6 +12,7 @@ What's in the Utility Belt:
 
 - 🚀 Other: ![Git](https://img.shields.io/badge/-Git-black?logo=git&logoColor=white&style=flat) ![Docker](https://img.shields.io/badge/-Docker-blue?logo=docker&logoColor=white&style=flat)
 
+You can check out my portfolio site [here](https://collinullmann.github.io/portfolio-site/) or reach out at collinullmann@gmail.com
 
 Recent Projects
 | Project              | GitHub | Live |
